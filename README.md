@@ -17,3 +17,5 @@ The owner of the BootSector Backuper explicitly states that they are not respons
 The BootSector Backuper is intended for advanced users who understand the implications of modifying boot sector information.
 Always keep a copy of your backup file in a safe location.
 Remember this was only designed for testing and to easy restore your boot sector from your backup file.**
+
+-  To run the version for Windows XP x86 you have to install **[Microsoft Visual C++ 2010 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=26999)**
